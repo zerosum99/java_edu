@@ -32,6 +32,12 @@ public class Main {
         OuterLocal ol = new OuterLocal();
         ol.abc();
 
+        Anonymous an  = new Anonymous();
+        an.abc();
+
+        Annoymous1 an1  = new Annoymous1();
+        an1.abc();
+
 
     }
 }
