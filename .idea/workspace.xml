@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="46d09384-fd0f-43da-9b78-d119f683a84c" name="Default Changelist" comment="" />
+    <list default="true" id="19ab8f81-b805-4ede-9c20-575272f16b1f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_edu.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_edu/com/animal/Person1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_edu/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_edu/com/inner/Outer$B.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_edu/com/inner/Outer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_edu/com/inner/OuterA$B.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_edu/com/inner/OuterA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_edu/com/people/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/animal/Person1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/inner/Outer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/inner/OuterA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/people/Person.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,21 +25,13 @@
   <component name="CodeStyleSettingsInfer">
     <option name="done" value="true" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
-  <component name="ProjectId" id="1yO5XNDdav7S99QPiKGoCNV3Ggf" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="1yOCBrHCcTTEZOZFs6wod1RzUdR" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
       <flattenPackages />
@@ -84,10 +91,10 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Main" />
-      <module name="java_edu" />
+      <module name="untitled104" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -95,39 +102,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DemoEx" type="SbtRunConfiguration" factoryName="sbt Task" show_console_on_std_err="false" show_console_on_std_out="false">
-      <module name="java_edu" />
-      <option name="allowRunningInParallel" value="false" />
-      <option name="projectPathOnTarget" />
-      <option name="selectedOptions">
-        <list />
-      </option>
-      <option name="tasks" value="" />
-      <option name="useSbtShell" value="true" />
-      <option name="vmparams" value="-Xms512M -Xmx1024M -Xss1M -XX:+CMSClassUnloadingEnabled" />
-      <option name="workingDir" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <list>
-      <item itemvalue="Application.Main" />
-      <item itemvalue="sbt Task.DemoEx" />
-    </list>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.Main" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="46d09384-fd0f-43da-9b78-d119f683a84c" name="Default Changelist" comment="" />
-      <created>1632109833069</created>
+      <changelist id="19ab8f81-b805-4ede-9c20-575272f16b1f" name="Default Changelist" comment="" />
+      <created>1632113115322</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1632109833069</updated>
+      <updated>1632113115322</updated>
     </task>
     <servers />
   </component>
