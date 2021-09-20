@@ -25,6 +25,13 @@ public class Main {
         OuterA.B b1 = a.new B();
         b1.bcd();
 
+        OuterStack os = new OuterStack();
+        OuterStack.BB bb = new OuterStack.BB();
+        bb.bcd();
+
+        OuterLocal ol = new OuterLocal();
+        ol.abc();
+
 
     }
 }
